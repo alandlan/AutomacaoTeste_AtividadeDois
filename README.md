@@ -1,6 +1,7 @@
-# AutomacaoTeste_AtividadeDois
+# Integration-testing-example
 
-## Alan Vieira Martins
-## Anderson Bueno
+Integrantes
 
+Anderson Bueno  
 
+Allan Vieira Martins
