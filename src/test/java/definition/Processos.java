@@ -34,8 +34,6 @@ public class Processos {
     }
 
     public static String recuperarCampo(String campo) {
-
-        //return RESTSupport.key(campo).toString();
         return RESTSupport.key(campo).toString();
     }
 }

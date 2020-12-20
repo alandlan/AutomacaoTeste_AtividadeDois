@@ -33,7 +33,6 @@ public class GeneralSteps {
         messageJson.put("unauthorized", 401);
         messageJson.put("sem conteúdo", 404);
 
-        Thread.sleep(2000);
         Assert.assertEquals(messageJson.get(type),RESTSupport.getResponseCode());
     }
 
