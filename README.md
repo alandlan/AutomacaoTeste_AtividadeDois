@@ -1,4 +1,4 @@
-# Integration-testing-example
+# Teste de Integração
 
 Integrantes
 
